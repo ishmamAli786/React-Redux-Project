@@ -1,0 +1,9 @@
+body{
+  padding-top: 3rem;
+}
+.actions{
+  opacity: 0;
+}
+tr:hover .actions{
+  opacity: 1;
+}
