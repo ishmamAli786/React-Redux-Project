@@ -1,0 +1,7 @@
+export const userConstant ={
+    GET_USERS:'GET_USERS',
+    DELETE_USER:'DELETE_USER',
+    ADD_USER:'ADD_USER',
+    GET_USER:'GET_USER',
+    UPDATE_USER:'UPDATE_USER'
+}

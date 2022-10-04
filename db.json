@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "name": "Khan",
+      "address": "Lahore",
+      "email": "khan@gmail.com",
+      "contact": "87564",
+      "id": 1
+    },
+    {
+      "name": "Ishmam",
+      "address": "Lahore",
+      "email": "ishmamkhan@gmail.com",
+      "contact": "87564",
+      "id": 2
+    },
+    {
+      "name": "Hassan",
+      "email": "hassanKhan@gmail.com",
+      "contact": "0879768564",
+      "address": "Wapda Town Lahore",
+      "id": 3
+    },
+    {
+      "name": "One Hour",
+      "email": "TwoHour@gmail.com",
+      "contact": "3434",
+      "address": "Kamalia",
+      "id": 4
+    }
+  ]
+}
